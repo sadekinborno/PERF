@@ -1,0 +1,6 @@
+pyyaml
+openai
+anthropic
+google-genai
+tenacity
+tqdm

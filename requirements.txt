@@ -1,0 +1,9 @@
+# PERF Engine Dependencies
+pyyaml>=6.0
+openai>=1.0.0
+anthropic>=0.18.0
+google-genai>=0.1.0
+tenacity>=8.2.0
+tqdm>=4.65.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
